@@ -1,0 +1,56 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Bree Serif', serif;
+  color: #fff;
+}
+
+body {
+  text-align: center;
+  background-color: red;
+
+}
+
+#header {
+
+}
+
+
+/* headings */
+.title-heading {
+  background-color: #00467f;
+  padding: 1% 0;
+}
+
+/* Title */
+.title-text {
+  font-size: 3rem;
+  font-family: 'Cinzel', serif;
+}
+
+/* Title */
+
+#title .container-fluid {
+  padding: 2% 10% 2%;
+}
+
+.header-image {
+  width: 100%;
+
+}
+
+.header-text {
+  padding: 1% 0 0;
+}
+
+.top-section {
+  background: #0077b8;
+  overflow: hidden;
+
+}
+
+.president-picture {
+  width: 25%;
+}
+
+.rank-picture {
+  width: 40%;
+}
